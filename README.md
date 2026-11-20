@@ -2,9 +2,9 @@
  
 Backend / Cloud / DevOps
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-handher0.github.io-111?style=flat-square&logo=githubpages&logoColor=white)](https://handher0.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-handher0-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handher0/)
-[![Email](https://img.shields.io/badge/Email-handher0@naver.com-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:handher0@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=githubpages&logoColor=white)](https://handher0.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handher0/)
+[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:handher0@naver.com)
  
 <br>
 ### ▍Education
@@ -37,21 +37,21 @@ Backend / Cloud / DevOps
 <br>
 ### ▍Tech Stack
  
-![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-111?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111?style=flat-square&logo=redis&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 <br>
-![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-111?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-111?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-111?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
  
 <br>
 ### ▍Training
