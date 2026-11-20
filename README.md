@@ -1,22 +1,18 @@
-# Son YeongUng
- 
 Backend / Cloud / DevOps
 ---
-### ▍Education
+### ▪&ensp;Education
  
 - **숭실대학교 컴퓨터학부** — 2021.03 – 2027.02 (졸업예정)
-<br>
 
 ---
-### ▍Experience
+### ▪&ensp;Experience
  
 - **한미래인터내셔날 (PR Magnet)** — 프리랜서, B2B플랫폼 개발 및 운영`2026.09 – 현재`
 - **슈어소프트테크** — 현장실습, 검증 자동화 플랫폼 개발 `2026.03 – 2026.06`
 - **숭실대 시스템소프트웨어 연구실** — 학부연구인턴, AI폰트 생성 서비스 개발 `2025.12 – 2026.02`
-<br>
 
 ---
-### ▍Projects
+### ▪&ensp;Projects
  
 | Project | Stack | Period |
 |---|---|---|
@@ -26,11 +22,9 @@ Backend / Cloud / DevOps
 | **[Vinny](https://github.com/Vinnyumc/Vinny-backend)** — 빈티지 스타일 공유 | Spring Boot, JPA, GitHub Actions | 2025.06 – 08 |
 | **[baby24](https://github.com/gdsc-ssu/baby24-server)** — 영유아 낙상 방지 | Spring Boot, Terraform, Cloud Run | 2025.02 – 03 |
 | **HireHub** — 리크루팅 관리 서비스 | Django, EC2, ALB, Auto Scaling | 2024.07 – 08 |
- 
-<br>
 
 ---
-### ▍Tech Stack
+### ▪&ensp;Tech Stack
  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -48,33 +42,29 @@ Backend / Cloud / DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
  
-<br>
 
 ---
-### ▍Training
+### ▪&ensp;Training
  
 - **Co-op 클라우드 트랙** (Terraform, Kubernetes) `2026.09 – 2026.12`
 - **AWS 구축부터 운영까지 실무** (EKS, CloudWatch) `2026.06 – 2026.07`
-<br>
 
 ---
-### ▍Certifications
+### ▪&ensp;Certifications
  
 - AWS Certified Cloud Practitioner `2026.08`
 - 정보처리기사 `2026.06`
 - ADsP `2026.06`
 - SQLD `2025.12`
 - TOPCIT level 4 `2026.10`
-<br>
 
 ---
-### ▍Awards
+### ▪&ensp;Awards
  
 - 소프트웨어공모전 은상 `2026.08`
 - AX핀테크 공모전 우수상 `2026.07`
 - 교내 IT시스템 보안취약점 확인 프로그램 장려상 `2026.06`
 - NEIT-AX 동계 학부연구인턴 우수상 `2026.03`
-<br>
 
 ---
  
