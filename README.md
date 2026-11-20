@@ -1,11 +1,6 @@
 # Son YeongUng
  
 Backend / Cloud / DevOps
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=githubpages&logoColor=white)](https://handher0.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handher0/)
-[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:handher0@naver.com)
-
 ---
 ### ▍Education
  
@@ -72,10 +67,18 @@ Backend / Cloud / DevOps
 - TOPCIT level 4 `2026.10`
 <br>
 
+---
 ### ▍Awards
  
 - 소프트웨어공모전 은상 `2026.08`
 - AX핀테크 공모전 우수상 `2026.07`
 - 교내 IT시스템 보안취약점 확인 프로그램 장려상 `2026.06`
 - NEIT-AX 동계 학부연구인턴 우수상 `2026.03`
+<br>
+
+---
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=githubpages&logoColor=white)](https://handher0.github.io/)
+[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=maildotru&logoColor=white)](mailto:handher0@naver.com)
+
  
